@@ -1,0 +1,12 @@
+User-agent: *
+
+# Disallow API and any private backend paths
+Disallow: /api/
+Disallow: /admin/
+
+# Allow homepage
+Allow: /
+Allow: /contact
+
+# Sitemap helps bots find all valid pages
+Sitemap: https://casaotilia.ro/sitemap.xml
