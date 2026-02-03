@@ -6,7 +6,7 @@ import MainNavBar from '../components/user/MainNavbar.tsx';
 import MainFooter from '../components/user/MainFooter.tsx';
 
 const MainLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  const whatsappNumber = '+40744586780';
+  const whatsappNumber = '+40744600746';
   const whatsappLink = `https://wa.me/${whatsappNumber.replace(/\D/g, '')}`;
 
   return (

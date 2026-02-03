@@ -5,22 +5,17 @@ import LocationLink from './LocationLink.tsx';
 
 const ICONS = [
   {
-    href: 'https://www.facebook.com/americanmusclecarsromania',
+    href: 'https://www.facebook.com/CASAOTILIAIASI',
     icon: <FaFacebookF size={20} />,
     color: 'primary',
   },
   {
-    href: 'https://www.youtube.com/@americanmusclecarsmotorcyc4633',
-    icon: <FaYoutube size={20} />,
-    color: 'error',
-  },
-  {
-    href: 'https://www.tiktok.com/@amcromania',
+    href: 'https://www.tiktok.com/@casaotilia.iasi',
     icon: <FaTiktok size={20} />,
     color: 'inherit',
   },
   {
-    href: 'tel:+40744586780',
+    href: 'tel:+40744600746',
     icon: <FaPhoneAlt size={20} />,
     color: 'inherit',
   },

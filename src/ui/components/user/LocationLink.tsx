@@ -4,8 +4,8 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
 const LocationLink = () => {
   // Store the location to be searched
   const searchQuery =
-    'American Muscle Cars For Romania, Str. Industriei, Popricani 707380';
-  const displayText = 'Str. Industriei, Popricani, Romania';
+    'Casa Otilia, B-dul Alexandru Cel Bun nr.62, bloc D3, Iasi, Romania';
+  const displayText = 'B-dul Alexandru Cel Bun nr.62, bloc D3, Iasi, Romania';
   const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(searchQuery)}`;
 
   return (

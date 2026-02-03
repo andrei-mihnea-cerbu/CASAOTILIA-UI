@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
       }}
     >
       <Typography variant="body2">
-        © {new Date().getFullYear()} American Muscle Cars. All rights reserved.
+        © {new Date().getFullYear()} Casa Otilia. All rights reserved.
       </Typography>
     </Box>
   );
